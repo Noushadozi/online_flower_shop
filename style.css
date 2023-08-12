@@ -268,32 +268,38 @@ footer {
     font-size: 16px;
 
 }
-.img{
+
+.img {
     width: 400px;
 }
+
 .about-us-description {
     display: flex;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     margin-bottom: 24px;
 }
-.about-us-title{
+
+.about-us-title {
     color: #272727;
     font-size: 30px;
     margin-bottom: 24px;
 }
-.about-us-main-title{
+
+.about-us-main-title {
     color: #272727;
     font-size: 40px;
     margin-bottom: 100px;
 }
-.about-container{
+
+.about-container {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 100px;
 }
-.about-section{
+
+.about-section {
     text-align: center;
     margin-top: 150px;
     margin-bottom: 150px;
